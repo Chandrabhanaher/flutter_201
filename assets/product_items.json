@@ -1,0 +1,342 @@
+[
+  {
+    "id": "1",
+    "title": "T-shirt",
+    "image_url": "https://5.imimg.com/data5/SELLER/Default/2022/6/UQ/BI/FF/31943666/mens-tshirt-1000x1000.jpeg",
+    "categories": [
+      "2",
+      "3"
+    ],
+    "price": 19.99,
+    "details": ""
+  },
+  {
+    "id": "2",
+    "title": "Jeans",
+    "image_url": "https://st2.depositphotos.com/4241323/9364/i/950/depositphotos_93649852-stock-photo-blue-jeans-for-men-and.jpg",
+    "categories": [
+      "2",
+      "3"
+    ],
+    "price": 39.99,
+    "details": ""
+  },
+  {
+    "id": "3",
+    "title": "Kids T-shirt",
+    "image_url": "https://m.media-amazon.com/images/I/71K4jN8DkXL._SX679_.jpg",
+    "categories": [
+      "4"
+    ],
+    "price": 12.99,
+    "details": ""
+  },
+  {
+    "id": "4",
+    "title": "Dress",
+    "image_url": "https://m.media-amazon.com/images/I/61+zO6fqO5L._SX679_.jpg",
+    "categories": [
+      "3"
+    ],
+    "price": 49.99,
+    "details": ""
+  },
+  {
+    "id": "5",
+    "title": "Sneakers",
+    "image_url": "https://nypost.com/wp-content/uploads/sites/2/2022/11/206-Collective.png?resize=1536,1025",
+    "categories": [
+      "2",
+      "3"
+    ],
+    "price": 59.99,
+    "details": ""
+  },
+  {
+    "id": "6",
+    "title": "Running Shoes",
+    "image_url": "https://m.media-amazon.com/images/I/81qGqFHu10L._SY695_.jpg",
+    "categories": [
+      "2"
+    ],
+    "price": 69.99,
+    "details": ""
+  },
+  {
+    "id": "7",
+    "title": "Handbag",
+    "image_url": "https://m.media-amazon.com/images/I/51TDqeSbzTL._SY695_.jpg",
+    "categories": [
+      "3"
+    ],
+    "price": 79.99,
+    "details": "It is versatile, lightweight and available in multiple trendy colors. Made from premium PU leather, this stylish hand bag has a well-stitched inner lining for easy accessibility and storage."
+  },
+  {
+    "id": "8",
+    "title": "Blazer",
+    "image_url": "https://m.media-amazon.com/images/I/61FmSr79D4L._SX679_.jpg",
+    "categories": [
+      "2",
+      "3"
+    ],
+    "price": 89.99,
+    "details": "Material composition| 70% Polyster, 19% Viscose, 11% Lycra | Dry clean Style Blazer Closure type Button Care instructions Dry Clean Only Country of Origin Bangladesh"
+  },
+  {
+    "id": "9",
+    "title": "Cap",
+    "image_url": "https://m.media-amazon.com/images/I/51BBcVHDe5L._SX679_.jpg",
+    "categories": [
+      "2",
+      "3",
+      "4"
+    ],
+    "price": 14.99,
+    "details": "Material type Cotton Occasion type Christmas, Birthday Style FSR003+FRBL-BLK Outer material Cotton it type Adjustable Pattern Embroidered Country of Origin India"
+  },
+  {
+    "id": "10",
+    "title": "Sweater",
+    "image_url": "https://m.media-amazon.com/images/I/61+HsbXLBIL._SY879_.jpg",
+    "categories": [
+      "2",
+      "3",
+      "4"
+    ],
+    "price": 49.99,
+    "details": [
+      "Elegant and full sleeves stylish Sweatshirt",
+      "Premium fabric for keeping you warm during cold weather.",
+      "Carefully placed seams for excellent fit and comfort.",
+      "Premium quality at affordable price.",
+      "Available in multiple colors and sizes."
+    ]
+  },
+  {
+    "id": "11",
+    "title": "Leggings",
+    "image_url": "https://m.media-amazon.com/images/I/81D25r8KpVL._SX679_.jpg",
+    "categories": [
+      "3"
+    ],
+    "price": 29.99,
+    "details": [
+      "Pack of 5 ; Color : White,Black,Red,Maroon,Romantic Rani",
+      "Style : Indian Churidar",
+      "Fabric : 95% Cotton & 5% Spandex",
+      "Closure Type: Drawstring; Color Name: Multicoloured"
+    ]
+  },
+  {
+    "id": "12",
+    "title": "Tote Bag",
+    "image_url": "https://m.media-amazon.com/images/I/81oV0HQnzAL._SY695_.jpg",
+    "categories": [
+      "3"
+    ],
+    "price": 39.99,
+    "details": "At Legal Bribe, we prioritize excellence by using only the finest premium raw materials. Our commitment to quality ensures that every product not only looks sophisticated but also stands the test of time. Experience the perfect blend of durability and luxury with our meticulously selected materials."
+  },
+  {
+    "id": "15",
+    "title": "Polo Shirt",
+    "image_url": "https://m.media-amazon.com/images/I/81lgUsGRF2L._SX679_.jpg",
+    "categories": [
+      "2"
+    ],
+    "price": 24.99,
+    "details": [
+      "Material: 100% Cotton",
+      "Fit Type: Regular Fit",
+      "Collar Style: Polo",
+      "Pattern: Solid",
+      "Sleeve Type: Half Sleeve"
+    ]
+  },
+  {
+    "id": "16",
+    "title": "Scarf",
+    "image_url": "https://m.media-amazon.com/images/I/71E0wq5TA-L._SX679_.jpg",
+    "categories": [
+      "3"
+    ],
+    "price": 19.99,
+    "details": "PALAY® 3Pcs Silk Scarf for Women Stylish, Satin Neck Head Scarf for Women, Summer Bandanas for Women, Fashion Print Silk Scarves for Women, 35 In Square Scarves for Women Gift, Comfy Beach Hair Scarf"
+  },
+  {
+    "id": "17",
+    "title": "Jacket",
+    "image_url": "https://m.media-amazon.com/images/I/61feZT8LBEL._SY879_.jpg",
+    "categories": [
+      "2"
+    ],
+    "price": 99.99,
+    "details": "Nike Men Sweatshirt"
+  },
+  {
+    "id": "16",
+    "title": "Socks",
+    "image_url": "https://m.media-amazon.com/images/I/91vwBWy+UKL._SX679_.jpg",
+    "categories": [
+      "2",
+      "3",
+      "4"
+    ],
+    "price": 7.99,
+    "details": "Skechers Polyester Men Short Socks S20041Id-Wnvg L, Multicolour"
+  },
+  {
+    "id": "17",
+    "title": "Swimsuit",
+    "image_url": "",
+    "categories": [
+      "3"
+    ],
+    "price": 34.99,
+    "details": ""
+  },
+  {
+    "id": "18",
+    "title": "Body Scrub",
+    "image_url": "https://www.aminu.life/cdn/shop/files/1_Sea_Salt_Body_Scrub_with_Carton_2.jpg?v=1738754014",
+    "categories": [
+      "3"
+    ],
+    "price": 19.99,
+    "details": "To make sure your skin, the largest organ in your body, is healthy, smooth and glowy, we bring you this must-have body scrub with salt from the Dead Sea and nutrient-rich botanical seed oils that perform full-body exfoliation and moisturization in a single step. It has the perfect texture for scrubbing away rough, dull skin."
+  },
+  {
+    "id": "19",
+    "title": "Shampoo",
+    "image_url": "https://5.imimg.com/data5/ANDROID/Default/2022/4/TI/DF/BI/150683769/product-jpeg-1000x1000.jpg",
+    "categories": [
+      "3"
+    ],
+    "price": 8.99,
+    "details": "Artnaturals Moroccan Argan Oil Shampoo & Conditioner Set (2 X 16 Oz) For Men & Women."
+  },
+  {
+    "id": "20",
+    "title": "Tennis Shoes",
+    "image_url": "https://m.media-amazon.com/images/I/81XMMCOxdiL._SY695_.jpg",
+    "categories": [
+      "2"
+    ],
+    "price": 59.99,
+    "details": "Nivia RAY 2.0 Tennis Shoes for Men | High-Performance Court Footwear | Non-Marking Court Shoes for Tennis and Athletic Performance | Tennis Court Sports Shoes | (Turquoise/Black & White)"
+  },
+  {
+    "id": "21",
+    "title": "Belt",
+    "image_url": "https://m.media-amazon.com/images/I/61JXxrsLQ5L._SX679_.jpg",
+    "categories": [
+      "2"
+    ],
+    "price": 14.99,
+    "details": ""
+  },
+  {
+    "id": "22",
+    "title": "Raincoat",
+    "image_url": "https://m.media-amazon.com/images/I/510ALQgTDeL.jpg",
+    "categories": [
+      "2",
+      "3"
+    ],
+    "price": 79.99,
+    "details": ""
+  },
+  {
+    "id": "23",
+    "title": "Sunglasses",
+    "image_url": "https://m.media-amazon.com/images/I/811XRKsfrLL._SX679_.jpg",
+    "categories": [
+      "2",
+      "3"
+    ],
+    "price": 49.99,
+    "details": ""
+  },
+  {
+    "id": "25",
+    "title": "Baby Car Seat",
+    "image_url": "https://rubz.in/cdn/shop/files/Baby_Body_Lotion_531b619b-01e6-46ee-9660-27fd159efce2.jpg?v=1741243656",
+    "categories": [
+      "4"
+    ],
+    "price": 120.00,
+    "details": ""
+  },
+  {
+    "id": "24",
+    "title": "Smart TV 4K",
+   "image_url": "https://m.media-amazon.com/images/I/71O4AjyN21L._SL1500_.jpg",
+   "categories": [
+      "1"
+    ],
+    "price": 45000.99,
+    "details": "55-inch 4K Ultra HD Smart TV with HDR, multiple HDMI ports, and built-in Wi-Fi for seamless streaming."
+    
+  },
+  {
+    "id": "25",
+    "title": "Bluetooth Earbuds",
+    "image_url": "https://m.media-amazon.com/images/I/61GDJtxN3NL._SL1500_.jpg",
+    "categories": [
+      "1"
+    ],
+    "price": 4500.99,
+    "details": "True wireless earbuds with noise-cancellation, 30 hours of playtime, and touch controls for easy management."
+  },
+  {
+    "id": "26",
+    "title": "Portable Power Bank",
+    "image_url": "https://m.media-amazon.com/images/I/71XIg7i8KoL._SL1500_.jpg",
+    "categories": [
+      "1"
+    ],
+    "price": 1200.99,
+    "details": "20,000mAh high-capacity power bank with fast charging technology and multiple USB ports for on-the-go charging."
+  },
+  {
+    "id": "27",
+    "title": "Wireless Gaming Mouse",
+   "image_url": "https://m.media-amazon.com/images/I/61bZSyWIakL._SL1500_.jpg",
+   "categories": ["1"],
+    "price": 500.99,
+    "details": "Ergonomic design, ultra-fast response time, and customizable RGB lighting, perfect for gaming enthusiasts."
+  },
+  {
+    "id": "28",
+    "title": "Samsung Galaxy S21",
+    "image_url": "https://m.media-amazon.com/images/I/91U+F7BvqoL._SL1500_.jpg",
+    "categories": ["1"],
+    "price": 14500.99,
+    "details": "The Galaxy S21 features a 6.2-inch Dynamic AMOLED display, 128GB storage, and a 64MP camera."
+  },
+  {
+    "id": "29",
+    "title": "iPhone 13 Pro Max",
+    "image_url": "https://m.media-amazon.com/images/I/812cOE51JEL._SL1500_.jpg",
+    "categories": ["1"],
+    "price": 117899.00,
+    "details": "iPhone 13 Pro Max comes with a 6.7-inch Super Retina XDR display, A15 Bionic chip, and 128GB storage."
+  },
+  {
+    "item_id": "30",
+    "title": "Samsung Galaxy Tab S7",
+    "image_url": "https://m.media-amazon.com/images/I/81Az7W7F+9L._SL1500_.jpg",
+    "categories": ["1"],
+    "price": 37500.99,
+    "details": "The Galaxy Tab S7 features an 11-inch LCD display, 128GB storage, and a 13MP rear camera."
+  },
+  {
+    "item_id": "31",
+    "title": "iPad Air (2022)",
+    "image_url": "https://m.media-amazon.com/images/I/71f32PhZhpL._SL1500_.jpg",
+    "categories": ["1"],
+    "price": 59900.99,
+    "details": "The iPad Air (2022) features a 10.9-inch Liquid Retina display, A15 Bionic chip, and 64GB storage."
+  }
+]
