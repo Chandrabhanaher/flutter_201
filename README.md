@@ -1,4 +1,4 @@
-# Flutter with MVVM ueing Riverpod
+# Flutter with MVVM using Riverpod
 
 A new Flutter project.
 
