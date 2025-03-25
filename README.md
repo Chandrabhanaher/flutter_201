@@ -1,4 +1,4 @@
-# flutter_201
+# Flutter with MVVM ueing Riverpod
 
 A new Flutter project.
 
