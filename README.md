@@ -19,7 +19,7 @@ It allows developers to build cross-platform applications from a single codebase
 # Functionality
 - Using JSON file Show Category with product list
  
- ``
+ ```
   Future<void> loadCategories() async {
     try {
       // Load JSON data from assets
@@ -33,8 +33,8 @@ It allows developers to build cross-platform applications from a single codebase
       state = AsyncValue.error(e, StackTrace.current);
     }
   }
-  
- ``
+ ```
+ 
  -Riverpod
  -SQFlite local database
  -MVVM Pattern
