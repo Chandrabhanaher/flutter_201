@@ -35,9 +35,9 @@ It allows developers to build cross-platform applications from a single codebase
   }
  ```
  
- -Riverpod
- -SQFlite local database
- -MVVM Pattern
+ - Riverpod
+ - SQFlite local database
+ - MVVM Pattern
 
 ## Getting Started
 
